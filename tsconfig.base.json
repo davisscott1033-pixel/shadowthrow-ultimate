@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "strict": true,
+    "jsx": "react-jsx",
+    "baseUrl": ".",
+    "paths": {
+      "@st/ui/*": [
+        "packages/ui/src/*"
+      ],
+      "@st/schema/*": [
+        "packages/schema/src/*"
+      ],
+      "@st/worker/*": [
+        "packages/worker/src/*"
+      ],
+      "@/*": [
+        "apps/web/src/*"
+      ],
+      "@/components/*": [
+        "apps/web/src/components/*"
+      ],
+      "@/lib/*": [
+        "apps/web/src/lib/*"
+      ]
+    }
+  }
+}

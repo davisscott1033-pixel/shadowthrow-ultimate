@@ -1,0 +1,1 @@
+export default function WatchNow(){return (<main className="container py-8"><h1 className="text-2xl font-semibold">Watch Now</h1><div className="bg-slate-900 rounded h-64 grid place-items-center">Placeholder</div></main>)}
