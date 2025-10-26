@@ -1,0 +1,71 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+At D:\ShadowThrow\ShadowThrow_Ultimate_v6\my-shadowthrow\run-shadowthrow-orchestrator.ps1:34 char:110
++ ... ep -Milliseconds 300 } catch { Warn "Failed to kill PID $pid: $($_.Ex ...
++                                                             ~~~~~
+Variable reference is not valid. ':' was not followed by a valid variable name character. Consider using ${} to 
+delimit the name.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : InvalidVariableReferenceWithDrive
+ 
+PS D:\ShadowThrow\ShadowThrow_Ultimate_v6\my-shadowthrow> PS D:\ShadowThrow\ShadowThrow_Ultimate_v6\my-shadowthrow> Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+[OK]  Patched apps/web/next.config.mjs
+[OK]  Patched apps/imported/next.config.mjs
+[INFO] .env.local already exists; leaving it
+[INFO] Installing workspace deps (pnpm install)
+[OK]  pnpm install complete
+[INFO] Prisma generate/push/seed (imported)
+[OK]  Database ready
+You cannot call a method on a null-valued expression.
+At D:\ShadowThrow\ShadowThrow_Ultimate_v6\my-shadowthrow\run-shadowthrow-orchestrator.ps1:21 char:3
++   $lines = (netstat -ano | Select-String ":$Port").ToString().Split(" ...
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+PS D:\ShadowThrow\ShadowThrow_Ultimate_v6\my-shadowthrow> Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+[OK]  Patched apps/web/next.config.mjs
+[OK]  Patched apps/imported/next.config.mjs
+[INFO] .env.local already exists; leaving it
+[INFO] Installing workspace deps (pnpm install)
+[OK]  pnpm install complete
+[INFO] Prisma generate/push/seed (imported)
+[OK]  Database ready
+You cannot call a method on a null-valued expression.
+At D:\ShadowThrow\ShadowThrow_Ultimate_v6\my-shadowthrow\run-shadowthrow-orchestrator.ps1:21 char:3
++   $lines = (netstat -ano | Select-String ":$Port").ToString().Split(" ...
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+PS D:\ShadowThrow\ShadowThrow_Ultimate_v6\my-shadowthrow> Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+[OK]  Patched apps/web/next.config.mjs
+[OK]  Patched apps/imported/next.config.mjs
+[INFO] .env.local already exists; leaving it
+[INFO] Installing workspace deps (pnpm install)
+[OK]  pnpm install complete
+[INFO] Prisma generate/push/seed (imported)
+[OK]  Database ready
+You cannot call a method on a null-valued expression.
+At D:\ShadowThrow\ShadowThrow_Ultimate_v6\my-shadowthrow\run-shadowthrow-orchestrator.ps1:21 char:3
++   $lines = (netstat -ano | Select-String ":$Port").ToString().Split(" ...
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+PS D:\ShadowThrow\ShadowThrow_Ultimate_v6\my-shadowthrow> 

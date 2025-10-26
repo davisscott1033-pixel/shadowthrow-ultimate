@@ -1,8 +1,9 @@
-﻿{
-  "files.eol": "\n",
-  "files.insertFinalNewline": true,
-  "files.trimTrailingWhitespace": true,
+{
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "prettier.requireConfig": true
+  "files.eol": "\n",
+  "typescript.preferences.importModuleSpecifier": "shortest",
+  "tailwindCSS.includeLanguages": {
+    "typescriptreact": "javascript"
+  }
 }

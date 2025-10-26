@@ -1,0 +1,1 @@
+Ensure tailwind content includes ../../packages/ui/src/**/* if using shared UI components.

@@ -45,3 +45,14 @@ Thumbs.db
 .vscode/*
 !.vscode/settings.json
 !.vscode/extensions.json
+# --- ShadowThrow local ---
+apps/*/.env
+apps/*/.env.local
+apps/*/prisma/*.sqlite
+apps/*/.next/
+packages/*/.next/
+node_modules/
+pnpm-lock.yaml
+# env + local overrides
+**/.env
+**/.env.local

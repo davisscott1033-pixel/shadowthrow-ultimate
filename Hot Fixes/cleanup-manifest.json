@@ -1,0 +1,70 @@
+﻿[
+    {
+        "from":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\apply-prisma-sqlite-patch.bat",
+        "to":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\Hot Fixes\\Scripts\\apply-prisma-sqlite-patch.bat"
+    },
+    {
+        "from":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\apply-prisma-sqlite-patch.ps1",
+        "to":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\Hot Fixes\\Scripts\\apply-prisma-sqlite-patch.ps1"
+    },
+    {
+        "from":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\fix-postcss-esm.bat",
+        "to":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\Hot Fixes\\Scripts\\fix-postcss-esm.bat"
+    },
+    {
+        "from":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\fix-postcss-esm.ps1",
+        "to":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\Hot Fixes\\Scripts\\fix-postcss-esm.ps1"
+    },
+    {
+        "from":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\fix-tailwind-postcss-plugin.bat",
+        "to":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\Hot Fixes\\Scripts\\fix-tailwind-postcss-plugin.bat"
+    },
+    {
+        "from":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\fix-tailwind-postcss-plugin.ps1",
+        "to":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\Hot Fixes\\Scripts\\fix-tailwind-postcss-plugin.ps1"
+    },
+    {
+        "from":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\fix-tailwind-v4-apply.bat",
+        "to":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\Hot Fixes\\Scripts\\fix-tailwind-v4-apply.bat"
+    },
+    {
+        "from":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\fix-tailwind-v4-apply.ps1",
+        "to":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\Hot Fixes\\Scripts\\fix-tailwind-v4-apply.ps1"
+    },
+    {
+        "from":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\fix-web-postcss.bat",
+        "to":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\Hot Fixes\\Scripts\\fix-web-postcss.bat"
+    },
+    {
+        "from":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\fix-web-postcss.ps1",
+        "to":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\Hot Fixes\\Scripts\\fix-web-postcss.ps1"
+    },
+    {
+        "from":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\package.json.bak",
+        "to":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\Misc\\package.json.bak"
+    },
+    {
+        "from":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\patch-prisma-sqlite.ps1",
+        "to":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\Hot Fixes\\Scripts\\patch-prisma-sqlite.ps1"
+    },
+    {
+        "from":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\run-shadowthrow-orchestrator.bat",
+        "to":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\Hot Fixes\\Scripts\\run-shadowthrow-orchestrator.bat"
+    },
+    {
+        "from":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\run-shadowthrow-orchestrator.log",
+        "to":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\Hot Fixes\\Logs\\run-shadowthrow-orchestrator.log"
+    },
+    {
+        "from":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\run-shadowthrow-orchestrator.ps1",
+        "to":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\Hot Fixes\\Scripts\\run-shadowthrow-orchestrator.ps1"
+    },
+    {
+        "from":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\setup-shadowthrow.log",
+        "to":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\Hot Fixes\\Logs\\setup-shadowthrow.log"
+    },
+    {
+        "from":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\setup-shadowthrow.ps1",
+        "to":  "D:\\ShadowThrow\\ShadowThrow_Ultimate_v6\\my-shadowthrow\\Hot Fixes\\Scripts\\setup-shadowthrow.ps1"
+    }
+]
