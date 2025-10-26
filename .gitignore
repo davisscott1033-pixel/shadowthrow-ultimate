@@ -21,3 +21,27 @@ Thumbs.db
 .vscode/*
 !.vscode/settings.json
 !.vscode/extensions.json
+
+# Node / pnpm
+node_modules/
+.pnpm-store/
+pnpm-lock.yaml
+
+# Builds
+.next/
+dist/
+.turbo/
+out/
+coverage/
+
+# Env
+.env*
+!.env.example
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
